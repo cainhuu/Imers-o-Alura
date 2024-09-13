@@ -1,6 +1,4 @@
-Análise do Código e Sugestões para um README
-Entendendo o Código
-O código fornecido implementa uma simples aplicação web que busca informações sobre frutas em uma lista pré-definida. As principais funcionalidades são:
+As principais funcionalidades são:
 
 Interface do Usuário: Um campo de texto para inserir o nome da fruta e um botão para iniciar a pesquisa.
 Mecanismo de Busca: O JavaScript itera sobre a lista de frutas, comparando a entrada do usuário com os títulos, descrições e tags de cada fruta.
